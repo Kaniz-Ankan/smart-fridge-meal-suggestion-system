@@ -1,0 +1,1 @@
+{"version":3,"file":"recipeIngredient.d.ts","sourceRoot":"","sources":["../../../src/generated/types/recipeIngredient.ts"],"names":[],"mappings":"AAAA;;;;;;GAMG;AAEH,MAAM,WAAW,gBAAgB;IAC/B,IAAI,EAAE,MAAM,CAAC;IACb,QAAQ,CAAC,EAAE,MAAM,CAAC;IAClB,UAAU,EAAE,OAAO,CAAC;IACpB,QAAQ,EAAE,OAAO,CAAC;IAClB,WAAW,CAAC,EAAE,MAAM,EAAE,CAAC;CACxB"}
