@@ -62,6 +62,25 @@ The Smart Fridge Meal Suggestion System addresses these challenges by providing 
 * Expiry Status Monitoring
 * Food Usage Insights
 
+### Screenshot of The overall System
+<img width="1279" height="715" alt="Screenshot 2026-06-04 at 10 09 14" src="https://github.com/user-attachments/assets/d6147bff-bcdd-449b-8727-a2d2a55a3b36" />
+
+<img width="985" height="414" alt="Screenshot 2026-06-04 at 10 09 25" src="https://github.com/user-attachments/assets/b0229504-7638-4447-9de2-a6f43dc0f7a3" />
+
+<img width="1014" height="692" alt="Screenshot 2026-06-04 at 10 09 45" src="https://github.com/user-attachments/assets/6da5b7ec-6aa1-48cc-8925-6e6dac6a82ca" />
+
+<img width="740" height="423" alt="Screenshot 2026-06-04 at 10 10 40" src="https://github.com/user-attachments/assets/da3625c1-fb2d-46a5-a863-78389a730cf5" />
+
+
+<img width="742" height="510" alt="Screenshot 2026-06-04 at 10 10 49" src="https://github.com/user-attachments/assets/6838ddc5-0c21-4ba0-a985-bded2cd49854" />
+
+
+<img width="1010" height="690" alt="Screenshot 2026-06-04 at 10 11 05" src="https://github.com/user-attachments/assets/cba71bad-1532-4307-83dc-666ce6ca370c" />
+
+
+<img width="942" height="697" alt="Screenshot 2026-06-04 at 10 11 29" src="https://github.com/user-attachments/assets/81371fbf-3cf0-4fb3-91a3-2204c0436958" />
+
+
 
 ## System Workflow
 
