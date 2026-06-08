@@ -63,22 +63,15 @@ The Smart Fridge Meal Suggestion System addresses these challenges by providing 
 * Food Usage Insights
 
 ### Screenshot of The overall System
-<img width="1279" height="715" alt="Screenshot 2026-06-04 at 10 09 14" src="https://github.com/user-attachments/assets/d6147bff-bcdd-449b-8727-a2d2a55a3b36" />
+<img width="1273" height="653" alt="Screenshot 2026-06-08 at 09 58 25" src="https://github.com/user-attachments/assets/d093f7ba-b65c-4539-96c9-9f79b4dceb63" />
 
-<img width="985" height="414" alt="Screenshot 2026-06-04 at 10 09 25" src="https://github.com/user-attachments/assets/b0229504-7638-4447-9de2-a6f43dc0f7a3" />
+<img width="1280" height="654" alt="Screenshot 2026-06-08 at 09 58 54" src="https://github.com/user-attachments/assets/9776909d-04d7-49ce-ba2d-4f8ac66ce999" />
 
-<img width="1014" height="692" alt="Screenshot 2026-06-04 at 10 09 45" src="https://github.com/user-attachments/assets/6da5b7ec-6aa1-48cc-8925-6e6dac6a82ca" />
+<img width="1000" height="636" alt="Screenshot 2026-06-08 at 09 59 15" src="https://github.com/user-attachments/assets/47bb49d1-0058-4041-97fc-63081c879a8a" />
 
-<img width="740" height="423" alt="Screenshot 2026-06-04 at 10 10 40" src="https://github.com/user-attachments/assets/da3625c1-fb2d-46a5-a863-78389a730cf5" />
+<img width="254" height="646" alt="Screenshot 2026-06-08 at 09 59 29" src="https://github.com/user-attachments/assets/7f2820fb-33f8-433c-9724-9cf0c1286361" />
 
-
-<img width="742" height="510" alt="Screenshot 2026-06-04 at 10 10 49" src="https://github.com/user-attachments/assets/6838ddc5-0c21-4ba0-a985-bded2cd49854" />
-
-
-<img width="1010" height="690" alt="Screenshot 2026-06-04 at 10 11 05" src="https://github.com/user-attachments/assets/cba71bad-1532-4307-83dc-666ce6ca370c" />
-
-
-<img width="942" height="697" alt="Screenshot 2026-06-04 at 10 11 29" src="https://github.com/user-attachments/assets/81371fbf-3cf0-4fb3-91a3-2204c0436958" />
+<img width="1003" height="635" alt="Screenshot 2026-06-08 at 09 59 46" src="https://github.com/user-attachments/assets/a2a0a58b-da75-42fe-8488-dcb1488e5f3e" />
 
 
 
